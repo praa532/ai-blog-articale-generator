@@ -1,1 +1,1 @@
-# ai-blog-articale-generator
+# ai-blog-article-generator
